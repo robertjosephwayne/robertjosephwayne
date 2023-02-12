@@ -3,13 +3,13 @@
 ### I'm currently building...
 
 - Algorithmic Trading Application
-    - [Live Application](https://trading.robertjosephwayne.com/)
-    - [Client Repository](https://github.com/robertjosephwayne/financial-dashboard-client)
-    - [Server Repository](https://github.com/robertjosephwayne/financial-dashboard-api)
+    - <a href="https://trading.robertjosephwayne.com/" target="_blank">Live Application</a>
+    - <a href="https://github.com/robertjosephwayne/financial-dashboard-client" target="_blank">Client Repository</a>
+    - <a href="https://github.com/robertjosephwayne/financial-dashboard-api" target="_blank">Server Repository</a>
 
 ---
 
 ### I'm currently learning...
 
 - Machine Learning
-    - [Notes and Code Examples](https://github.com/robertjosephwayne/machine-learning)
+    - <a href="https://github.com/robertjosephwayne/machine-learning" target="_blank">Notes and Code Examples</a>
