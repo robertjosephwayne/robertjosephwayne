@@ -2,7 +2,7 @@
 
 ### I'm currently building...
 
-<div style="padding-top: 6px; padding-bottom: 6px">Algorithmic Trading Application</div>
+<div style="padding-top: 6px; margin-bottom: 6px">Algorithmic Trading Application</div>
 
 <ul>
     <li>
@@ -21,7 +21,7 @@
 
 ### I'm currently learning...
 
-<div style="padding-top: 6px; padding-bottom: 6px">Machine Learning</div>
+<div style="padding-top: 6px; margin-bottom: 6px">Machine Learning</div>
 
 <ul>
     <li>
