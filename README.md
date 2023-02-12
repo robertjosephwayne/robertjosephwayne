@@ -3,7 +3,7 @@
 ### I'm currently building...
 
 <div style="padding-top: 6px;">
-    <p>Algorithmic Trading Application</p>
+    <p style="margin-bottom: 2px;">Algorithmic Trading Application</p>
 </div>
 
 <ul>
