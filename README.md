@@ -2,9 +2,9 @@
 
 ### I'm currently building...
 
-<div style="padding-top: 6px; margin-bottom: 6px">Algorithmic Trading Application</div>
+<div style="padding-top: 6px;">Algorithmic Trading Application</div>
 
-<ul>
+<ul style="padding-top: 6px;">
     <li>
         <a href="https://trading.robertjosephwayne.com/">Live Application</a>
     </li>
