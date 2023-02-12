@@ -6,11 +6,7 @@
     - [Client Repository](https://github.com/robertjosephwayne/financial-dashboard-client)
     - [Server Repository](https://github.com/robertjosephwayne/financial-dashboard-api)
 
-<br />
-
 ---
-
-<br />
 
 ### I'm currently learning...
 - Machine Learning
