@@ -7,8 +7,8 @@
     - <a href="https://github.com/robertjosephwayne/financial-dashboard-client" target="_blank">Client Repository</a>
     - <a href="https://github.com/robertjosephwayne/financial-dashboard-api" target="_blank">Server Repository</a>
 
-- Accounting Chatbot
-    - <a href="https://chat.robertjosephwayne.com/" target="_blank">Live Application</a>
+- Finance Chatbot
+    - <a href="https://financebrain.ai/" target="_blank">Live Application</a>
     - <a href="https://github.com/robertjosephwayne/finance-chatbot-client" target="_blank">Client Repository</a>
     - <a href="https://github.com/robertjosephwayne/finance-chatbot-server" target="_blank">Server Repository</a>
 
